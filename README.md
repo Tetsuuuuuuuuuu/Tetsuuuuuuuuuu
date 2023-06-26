@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tetsuuuuuuuuuu
 - Im 🇩🇪
 - 📫 How to reach me: Tetsu#9030
-- 📚 Im doing stuff in: C#, C++, Lua, JavaScript, HTML, CSS, SCSS,
+- 📚 Im doing stuff with: C#, C++, Lua, JavaScript, HTML, CSS, SCSS
