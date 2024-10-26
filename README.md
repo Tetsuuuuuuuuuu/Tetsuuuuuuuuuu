@@ -12,25 +12,26 @@
 
 ### Im working with:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
+  <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/c%23.svg" alt="C#" width="40" height="40"/>
+  <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/c%2B%2B.svg" alt="C++" width="40" height="40"/>
+  <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/Lua-Logo.svg" alt="Lua" width="40" height="40"/>
+  <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/html5.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/css3.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/scss_icon.svg" alt="SCSS" width="40" height="40"/>
 </p>
 
 ### Im currently learning:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="Elixir" width="40" height="40"/>
+  <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/elixir.png" alt="Elixir" width="40" height="40"/>
   <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/lucy.svg" alt="Gleam" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/react.svg" alt="React" width="40" height="40"/>
+  <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/typescript.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
 ### Next to learn:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/go.svg" alt="Go" width="40" height="40"/>
+  <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/rust_with_backg.png" alt="Rust" width="40" height="40"/>
 </p>
