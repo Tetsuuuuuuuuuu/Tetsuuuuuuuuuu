@@ -12,7 +12,7 @@
 
 ### Im working with:
 <p align="left">
-  <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/c%23.svg" alt="C#" width="40" height="40"/>
+  <a href="https://cpp-lang.net/"><img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/c%23.svg" alt="C#" width="40" height="40"/></a>
   <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/c%2B%2B.svg" alt="C++" width="40" height="40"/>
   <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/Lua-Logo.svg" alt="Lua" width="40" height="40"/>
   <img src="https://github.com/Tetsuuuuuuuuuu/Tetsuuuuuuuuuu/blob/main/javascript.svg" alt="JavaScript" width="40" height="40"/>
